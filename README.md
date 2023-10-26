@@ -1,4 +1,4 @@
 # Master_project_SDS
 
-Repo für Twitter Daten:
+Daten von Janas Studie:
 https://osf.io/mqhgp/
