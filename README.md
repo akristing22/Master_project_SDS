@@ -21,6 +21,15 @@ https://www.bundestag.de/services/opendata
 
 **BERTopic**
 
+*Difficulties:*
+
+ - Compare Topics between different corpora
+ - Topic Modeling for vastly different text types
+
+Kullback-Leibler Divergence for differences in topic distributions
+
+Multi-corpus Topic-based Corpus Comparison (MTCC) 
+
 
 
 
