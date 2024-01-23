@@ -1,9 +1,8 @@
-# Master Project Social Data Science
-## RWTH Aachen
-## Prof. Dr. Jana Lasser
+# Master Project Social Data Science WS 2023/2024
+## RWTH Aachen | Prof. Dr. Jana Lasser
 ### Lawrence Fulton, Kristin Gnadt, Jona Rekate
 
-### Topic
+### Research Question
 
 *Do the debated topics on Twitter by German politicians differ from the topics debated in the German parliament?*
 
