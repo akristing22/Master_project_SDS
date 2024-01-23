@@ -7,6 +7,9 @@
 *Do the debated topics on Twitter by German politicians differ from the topics debated in the German parliament?*
 
 
+Welcome to our master project!
+You can find our code in this repository, as well as our final presentation
+
 ### Data
 Bundestag Open Data:
 https://www.bundestag.de/services/opendata
