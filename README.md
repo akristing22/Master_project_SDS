@@ -1,34 +1,24 @@
-# Master_project_SDS
+# Master Project Social Data Science
+## RWTH Aachen
+## Prof. Dr. Jana Lasser
+### Lawrence Fulton, Kristin Gnadt, Jona Rekate
 
 ### Topic
 
 *Do the debated topics on Twitter by German politicians differ from the topics debated in the German parliament?*
 
-*Is there a pattern in the temporal relation between the topics debated on Twitter and in the German parliament?*
-
 
 ### Data
-Daten von Janas Studie:
-https://osf.io/mqhgp/
-
-
 Bundestag Open Data:
 https://www.bundestag.de/services/opendata
 
-### Methods
+Twitter Data Study:
+https://doi.org/10.1093/pnasnexus/pgac186
 
-**LDA**
+### Methods
 
 **BERTopic**
 
-*Difficulties:*
-
- - Compare Topics between different corpora
- - Topic Modeling for vastly different text types
-
-Kullback-Leibler Divergence for differences in topic distributions
-
-Multi-corpus Topic-based Corpus Comparison (MTCC) 
 
 
 
