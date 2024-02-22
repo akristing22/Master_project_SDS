@@ -8,9 +8,11 @@
 
 
 Welcome to our master project!
-You can find our code in this repository, as well as our final presentation
+In this code, you can find our code we used for analysing the topics German MPs discuss on Twitter and in parliament during the 19th legislation period (2017-2021).
 
 ### Data
+The data we used can be accessed/ requested at:
+
 Bundestag Open Data:
 https://www.bundestag.de/services/opendata
 
@@ -21,6 +23,9 @@ https://doi.org/10.1093/pnasnexus/pgac186
 
 **BERTopic**
 https://maartengr.github.io/BERTopic/index.html
+
+**Bundestag Parser**
+https://github.com/pournaki/bundestag-parser
 
 
 
