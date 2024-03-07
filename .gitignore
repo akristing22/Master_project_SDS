@@ -31,3 +31,6 @@ secrets.txt
 
 # Ignore raw speaches files
 /data/pp19-data
+
+# ignore the __pycache__ directory
+/code/__pycache__/
