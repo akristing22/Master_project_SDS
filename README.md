@@ -8,7 +8,7 @@
 
 
 Welcome to our master project!
-In this code, you can find our code we used for analysing the topics German MPs discuss on Twitter and in parliament during the 19th legislation period (2017-2021).
+In this repo, you can find the code we used for analysing the topics German MPs discuss on Twitter and in parliament during the 19th legislation period (2017-2021).
 
 ### Data
 The data we used can be accessed/ requested at:
