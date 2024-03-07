@@ -27,9 +27,6 @@ https://maartengr.github.io/BERTopic/index.html
 **Bundestag Parser**
 https://github.com/pournaki/bundestag-parser
 
-The code we used can be find in the respective folder. A documentation of the notebooks can be found in the README in that folder.
-
-
 
 | File                                 | Content                                                                       |
 |--------------------------------------|-------------------------------------------------------------------------------|
